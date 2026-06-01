@@ -7,12 +7,12 @@ This repository contains the complete source code, training scripts, and Grad-CA
 
 We use the **Brain Tumor MRI Dataset** publicly available on Kaggle.
 
-| Class | Description | Samples (approx.) |
+| Class | Description | Training (approx.) | Testing | Total |
 |---|---|---|
-| Glioma | Malignant brain tumor | ~1,500 |
-| Meningioma | Typically benign tumor | ~1,500 |
-| Pituitary | Pituitary gland tumor | ~1,500 |
-| No Tumor | Healthy brain MRI | ~2,000 |
+| Glioma | Malignant brain tumor | 1400 | 400 | 1800 | 
+| Meningioma | Typically benign tumor | 1400 | 400 |1800 |
+| Pituitary | Pituitary gland tumor | 1400 | 400 |1800 |
+| No Tumor | Healthy brain MRI | 1400 | 400 |1800 |
 
 **Download:** [https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
